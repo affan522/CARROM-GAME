@@ -1,1 +1,2 @@
-# CARROM-GAME USING OPENCV PYTHON
+# carromgame
+Carrom Game in Python
